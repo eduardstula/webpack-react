@@ -1,4 +1,4 @@
-# webpack-jquery
+# webpack-react
 Webpack devstack based on React.
 
 
